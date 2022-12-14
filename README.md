@@ -28,6 +28,7 @@
 <img src="https://github.com/ayushg03/gettogether/blob/master/assets/Picture4.png" width="200" display="inline" />
 <img src="https://github.com/ayushg03/gettogether/blob/master/assets/Picture5.png" width="200" display="inline"/>
 </p>
+
 ## Home Screen
 <p float="left">
 <img src="https://github.com/ayushg03/gettogether/blob/master/assets/Picture6.png" width="200" display="inline" />
