@@ -14,39 +14,51 @@
 - Liking, Commenting & Following
 
 ## Onboarding Screen
-
+<p align="left">
 <img src="https://github.com/ayushg03/gettogether/blob/master/assets/Picture1.png" width="200" display="inline" />
+   
 <img src="https://github.com/ayushg03/gettogether/blob/master/assets/Picture2.png" width="200" display="inline"/>
+   
 <img src="https://github.com/ayushg03/gettogether/blob/master/assets/Picture3.png" width="200" display="inline" />
+</p>
 
 
 ## Login & Signup Screen
+<p float="left">
 <img src="https://github.com/ayushg03/gettogether/blob/master/assets/Picture4.png" width="200" display="inline" />
 <img src="https://github.com/ayushg03/gettogether/blob/master/assets/Picture5.png" width="200" display="inline"/>
-
+</p>
 ## Home Screen
+<p float="left">
 <img src="https://github.com/ayushg03/gettogether/blob/master/assets/Picture6.png" width="200" display="inline" />
 <img src="https://github.com/ayushg03/gettogether/blob/master/assets/Picture7.png" width="200" display="inline"/>
-
+</p>
 
 ## Add Post Screen
+<p float="left">
 <img src="https://github.com/ayushg03/gettogether/blob/master/assets/Picture8.png" width="200" display="inline" />
-
+</p>
 
 ## Profile Screeen
+<p float="left">
 <img src="https://github.com/ayushg03/gettogether/blob/master/assets/Picture9.png" width="200" display="inline" />
+</p>
 
 ## Edit Profile Screen
+<p float="left">
 <img src="https://github.com/ayushg03/gettogether/blob/master/assets/Picture10.png" width="200" display="inline" />
 <img src="https://github.com/ayushg03/gettogether/blob/master/assets/Picture11.png" width="200" display="inline" />
+</p>
 
 ## Messages Screen
+<p float="left">
 <img src="https://github.com/ayushg03/gettogether/blob/master/assets/Picture12.png" width="200" display="inline" />
-
+</p>
 
 ## Chat Screen
+<p float="left">
 <img src="https://github.com/ayushg03/gettogether/blob/master/assets/Picture13.png" width="200" display="inline" />
-
+</p>
 
 
 ## Packages Used
