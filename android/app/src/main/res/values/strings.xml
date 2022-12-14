@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BTech</string>
+    
+<string name="facebook_app_id">3250085181969030</string>
+<string name="fb_login_protocol_scheme">fb3250085181969030</string>
+<string name="facebook_client_token">a10a091b2a7db59fde607a594ffe50c6</string>
+
+
+</resources>
